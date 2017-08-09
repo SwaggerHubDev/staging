@@ -9,8 +9,6 @@ info:
   license:
     name: "Apache 2.0"
     url: "http://www.apache.org/licenses/LICENSE-2.0.html"
-host: "dev-virtserver.swaggerhub.com"
-basePath: "/qatest1/myPets/1.0.0"
 tags:
 - name: "pet"
   description: "Everything about your Pets"
@@ -24,9 +22,6 @@ tags:
   externalDocs:
     description: "Find out more about our store"
     url: "http://swagger.io"
-schemes:
-- "https"
-- "http"
 paths:
   /pet:
     post:
