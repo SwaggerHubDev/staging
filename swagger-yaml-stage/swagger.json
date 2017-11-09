@@ -1,6 +1,7 @@
 ---
 swagger: "2.0"
 info:
+  description: "This is the description for the API"
   version: "1.0.0"
   title: "Swagger Petstore"
   termsOfService: "http://swagger.io/terms/"
@@ -700,3 +701,4 @@ definitions:
 externalDocs:
   description: "Find out more about Swagger"
   url: "http://swagger.io"
+x-ibm-name: "api-58174"
